@@ -1,0 +1,16 @@
+{
+  "name": "sabayder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage":"https://dara1996.github.io/sabayder",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
